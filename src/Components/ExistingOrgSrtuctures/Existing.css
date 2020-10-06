@@ -66,3 +66,11 @@
   height: 20px;
   cursor: pointer;
 }
+@media screen and (max-width: 700px) {
+  .accordionTable .columnWidth {
+    grid-template-columns: 60% 20% 20%;
+  }
+  .accordionTable .columnWidth .changeInput {
+    width: 85%;
+  }
+}
