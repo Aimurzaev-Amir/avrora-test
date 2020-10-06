@@ -1,0 +1,68 @@
+.arrItem {
+  position: relative;
+  list-style: none;
+}
+.accordionTable .columnWidth {
+  display: grid;
+  grid-template-columns: 70% 20% 10%;
+  width: 100%;
+  border-left: 1px solid #f1f1f1;
+  border-bottom: 1px solid #f1f1f1;
+  transition: ease-in-out 0.2s;
+}
+.accordionTable .columnWidth .quantity {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 1px solid #f1f1f1;
+}
+.accordionTable .columnWidth .createInput,
+.accordionTable .columnWidth .changeInput {
+  padding: 3px 0 3px 20px;
+}
+.accordionTable .columnWidth .createInput {
+  width: 100%;
+}
+.accordionTable .columnWidth button {
+  padding: 3px 20px;
+}
+.accordionTable .fold {
+  background-color: #e4edfb;
+  transition: ease-in-out 0.3s;
+}
+.accordionTable .view {
+  transition: ease-in-out 0.3s;
+  background-color: #2c3e50;
+  color: #fff;
+}
+.accordionTable .foldName {
+  padding: 20px;
+  position: relative;
+  cursor: pointer;
+}
+
+.accordionTable .foldName .arrowFold {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) rotate(-90deg);
+  right: 20px;
+  width: 15px;
+  height: 15px;
+  transition: ease-in-out 0.2s;
+}
+.accordionTable .foldName .arrowFoldOpen {
+  transform: translateY(-50%) rotate(0deg);
+  transition: ease-in-out 0.2s;
+}
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-left: 1px solid #f1f1f1;
+  border-bottom: 1px solid #f1f1f1;
+}
+.actions img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
