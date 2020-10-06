@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a12b810c5429e9f79c745d885115633d",
+    "revision": "62834a753d83c22619721aae5a13e39e",
     "url": "/avrora-test/index.html"
   },
   {
-    "revision": "7f8d06d9237a9cb3b70e",
-    "url": "/avrora-test/static/css/main.f4f82111.chunk.css"
+    "revision": "4c0615d6d6550ecf669b",
+    "url": "/avrora-test/static/css/main.ce1a6130.chunk.css"
   },
   {
     "revision": "727c4594fe69738d296e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avrora-test/static/js/2.981141c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f8d06d9237a9cb3b70e",
+    "revision": "4c0615d6d6550ecf669b",
     "url": "/avrora-test/static/js/main.1b16334f.chunk.js"
   },
   {

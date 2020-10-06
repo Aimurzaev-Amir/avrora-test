@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avrora-test/static/css/main.f4f82111.chunk.css",
+    "main.css": "/avrora-test/static/css/main.ce1a6130.chunk.css",
     "main.js": "/avrora-test/static/js/main.1b16334f.chunk.js",
     "main.js.map": "/avrora-test/static/js/main.1b16334f.chunk.js.map",
     "runtime-main.js": "/avrora-test/static/js/runtime-main.c3ea4768.js",
@@ -8,9 +8,9 @@
     "static/js/2.981141c6.chunk.js": "/avrora-test/static/js/2.981141c6.chunk.js",
     "static/js/2.981141c6.chunk.js.map": "/avrora-test/static/js/2.981141c6.chunk.js.map",
     "index.html": "/avrora-test/index.html",
-    "precache-manifest.de9e73b3ea3f5dc6bf6f9f2a89368194.js": "/avrora-test/precache-manifest.de9e73b3ea3f5dc6bf6f9f2a89368194.js",
+    "precache-manifest.2a4d1e306e6331b369b4791c361817af.js": "/avrora-test/precache-manifest.2a4d1e306e6331b369b4791c361817af.js",
     "service-worker.js": "/avrora-test/service-worker.js",
-    "static/css/main.f4f82111.chunk.css.map": "/avrora-test/static/css/main.f4f82111.chunk.css.map",
+    "static/css/main.ce1a6130.chunk.css.map": "/avrora-test/static/css/main.ce1a6130.chunk.css.map",
     "static/js/2.981141c6.chunk.js.LICENSE.txt": "/avrora-test/static/js/2.981141c6.chunk.js.LICENSE.txt",
     "static/media/pen 1.svg": "/avrora-test/static/media/pen 1.a5da3cac.svg",
     "static/media/plus 1.svg": "/avrora-test/static/media/plus 1.5111941a.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c3ea4768.js",
     "static/js/2.981141c6.chunk.js",
-    "static/css/main.f4f82111.chunk.css",
+    "static/css/main.ce1a6130.chunk.css",
     "static/js/main.1b16334f.chunk.js"
   ]
 }

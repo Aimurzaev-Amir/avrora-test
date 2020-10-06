@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/avrora-test/precache-manifest.de9e73b3ea3f5dc6bf6f9f2a89368194.js"
+  "/avrora-test/precache-manifest.2a4d1e306e6331b369b4791c361817af.js"
 );
 
 self.addEventListener('message', (event) => {
